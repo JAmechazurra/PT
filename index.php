@@ -11,7 +11,7 @@ body {
      }
 </style> 
 </head>
-<body Alink="#FFFFFF" vlink="#FFFFFF">
+<body a link="#FFFFFF" vlink="#FFFFFF">
 	<center>
 <font color= white size= "12">  <img src="world.jpg" width="55" height="55"><img> THE WORLD </font>
 	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p>
